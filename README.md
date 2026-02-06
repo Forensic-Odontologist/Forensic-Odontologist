@@ -1,3 +1,7 @@
+<p align="center">
+<img width="300" height="300" alt="logo_vectorized" src="https://github.com/user-attachments/assets/519cc8f3-7e3d-4216-852d-53fb641bb80c"  />
+</p>
+
 # 👋 Hello, I’m a Forensic Odontologist
 
 I am a french dentist specialized in **forensic odontology**, 
@@ -11,7 +15,7 @@ This GitHub profile is used to:
 
 ---
 
-## 🧠 Areas of Interest
+## Areas of Interest
 
 - Forensic odontology  
 - 2D / 3D medical imaging (radiographs, CBCT, volumetric data)
@@ -23,7 +27,7 @@ Preffered languages : Python, R, JSON
 
 ---
 
-## 🧪 Project Scope
+## Project Scope
 
 Repositories hosted here may include:
 - experimental prototypes
