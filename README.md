@@ -13,22 +13,6 @@ This GitHub profile is used to:
 - centralize **technical and methodological documentation**
 - explore digital approaches applied to forensic and medical practice
 
----
-
-## Areas of Interest
-
-- Forensic odontology  
-- 2D / 3D medical imaging (radiographs, CBCT, volumetric data)
-- Image–volume registration and visualization
-- Digital tools and automation
-- Medical liability and health law
-
-Preffered languages : Python, R, JSON
-
----
-
-## Project Scope
-
 Repositories hosted here may include:
 - experimental prototypes
 - analytical scripts and tools
@@ -36,4 +20,12 @@ Repositories hosted here may include:
 - research notes and exploratory work
 
 > Some projects may be in an early or experimental stage.
+
+---
+
+## Projects
+
+### [SmilePnP](https://github.com/Forensic-Odontologist/SmilePnP)
+
+🤳☠️🦷 SmilePnP is a Blender add-on implementing a Perspective-n-Point (PnP) approach for quantitative 2D-3D dental superimposition in forensic identification contexts. The method aligns post-mortem 3D intraoral scans (or digitalized casts) with ante-mortem smile photographs through geometric optimization, providing objective quality metrics and reproducible workflows.
 
